@@ -1,0 +1,2 @@
+# jalen-token-hud-tweaks
+Forked from Illandril's Token HUD Scaler. Also takes some CSS written by Sky. Improves the visibility of the Status Effect icons. Adjusts the size of token status effects so they fit 3 across for the token (60% larger than standard for 1:1 tokens, much larger than standard for double-sized tokens, slightly smaller than standard for half-size tokens), and increases the opacity of the background behind both the Token HUD and Status Effect icons. Status Effect List is now horizontal per Sky's CSS change.
