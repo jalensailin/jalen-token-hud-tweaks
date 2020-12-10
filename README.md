@@ -7,7 +7,7 @@ My changes: I liked how Illandril made the status icons appear larger on the tok
 
 Example:
 
-![](images/JalenTweaks.png)
+![](ImageExample/JalenTweaks.png)
 
 Compatibility: I literally know so little about coding, so I am not sure how this would be compatible with other mods. I imagine mods which change the CSS of the token HUD will not be compatible but who knows. I also don't know if this is system agnostic. I use it for DnD 5e. Maybe someone can inform me about this. 
 
