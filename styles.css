@@ -1,0 +1,36 @@
+#token-hud .control-icon {
+  background: rgba(0, 0, 0, 0.8);
+}
+
+#token-hud .status-effects { 
+  top: -275% !important; 
+  width: 320px !important; 
+  grid-template-columns: 40px 40px 40px 40px 40px 40px 40px 40px !important; 
+  background: rgba(0, 0, 0, 0.8);
+}
+
+#token-hud .status-effects .effect-control { 
+  height: 36px !important; 
+  width: 36px !important; 
+}
+
+/*#token-hud .status-effects {
+  width: 152px;
+  grid-template-columns: 38px 38px 38px 38px;
+  background: rgba(0, 0, 0, 0.8);
+}
+
+#token-hud .status-effects .effect-control {
+  width: 36px;
+  height: 36px;
+}
+
+ #token-hud .col.right {
+  transform: scale(1.5);
+  right: -80px;
+}
+
+#token-hud .col.left {
+  transform: scale(1.5);
+  left: -80px;
+} */
