@@ -3,16 +3,14 @@
   "name": "jalen-token-hud-tweaks",
   "version": "1.0.5",
   "title": "Jalen's Token HUD Tweaks",
-  "description": "Stolen from Illandril and Sky. Improves the visibility of the Status Effect icons. Adjusts the size of token status effects so they fit 3 across for the token (60% larger than standard for 1:1 tokens, much larger than standard for double-sized tokens, slightly smaller than standard for half-size tokens), and increases the opacity of the background behind both the Token HUD and Status Effect icons. Status Effect List is now horizontal (added more columns) per Sky's CSS change.",
+  "description": "Forked from Illandril and Sky. Improves the visibility of the Status Effect icons. Adjusts the size of token status effects so they fit 3 across for the token (60% larger than standard for 1:1 tokens, much larger than standard for double-sized tokens, slightly smaller than standard for half-size tokens), and increases the opacity of the background behind both the Token HUD and Status Effect icons. Status Effect List is now horizontal (added more columns) per Sky's CSS change.",
   "author": "Jalen Mahalo",
   "minimumCoreVersion": "0.6.5",
   "compatibleCoreVersion": "0.7.8",
   "styles": ["./styles.css"],
   "esmodules": ["./init.js"],
   "license": "./LICENSE",
-  "url": "https://github.com/illandril/FoundryVTT-token-hud-scale",
-  "bugs": "https://github.com/illandril/FoundryVTT-token-hud-scale/issues",
-  "changelog": "https://github.com/illandril/FoundryVTT-token-hud-scale/blob/master/CHANGELOG.md",
-  "manifest": "https://github.com/illandril/FoundryVTT-token-hud-scale/releases/latest/download/module.json",
-  "download": "https://github.com/illandril/FoundryVTT-token-hud-scale/releases/download/v1.0.5/illandril-token-hud-scale.zip"
+  "url": "https://github.com/jalensailin/jalen-token-hud-tweaks",
+  "manifest": "",
+  "download": "https://github.com/jalensailin/jalen-token-hud-tweaks/archive/main.zip"
 }
