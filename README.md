@@ -5,6 +5,10 @@ Description from Illandril's Mod: "Improves the visibility of the Status Effect 
 
 My changes: I liked how Illandril made the status icons appear larger on the token, but I didn't like the scaling of the entire HUD. I commented out the lines which scaled the HUD and left the lines which changed the size of the status icons, with some slight tweaks. I also don't like how the core version had the status effects list oriented vertically. So, the status Effect List is now horizontal (8 columns total), inspired by Sky's CSS change.
 
+Example:
+
+![](images/JalenTweaks.png)
+
 Compatibility: I literally know so little about coding, so I am not sure how this would be compatible with other mods. I imagine mods which change the CSS of the token HUD will not be compatible but who knows. I also don't know if this is system agnostic. I use it for DnD 5e. Maybe someone can inform me about this. 
 
 Installation (manual): 
