@@ -25,6 +25,10 @@ Example:
 
 Compatibility: I literally know very little about coding, so I am not sure how this would be compatible with other mods. I imagine mods which change the CSS of the token HUD will not be compatible but who knows. I also don't know if this is system agnostic. I use it for DnD 5e. Hopefully someone can clear the air on this stuff. 
 
+Installation (easy):
+  1. Copy and paste the following link into the Foundry Add-on Modules tab in the configuration and setup page: https://raw.githubusercontent.com/jalensailin/jalen-token-hud-tweaks/main/module.json
+  2. Enable it in your module settings in your world.
+
 Installation (manual): 
   1. Download all files.
   2. Right click and Copy jalen-token-hud-tweaks folder.
