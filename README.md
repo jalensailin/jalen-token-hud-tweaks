@@ -1,4 +1,7 @@
-# jalen-token-hud-tweaks Discord: jalensailin#1177
+# jalen-token-hud-tweaks 
+
+Discord: jalensailin#1177
+
 What this module does (read the rest for more details): 
   1. It makes status icons appear larger on the token 
   2. It changes the layout of the status effects list to be horizontal instead of vertical, and centers this list around the token.
