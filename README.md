@@ -1,4 +1,4 @@
-# jalen-token-hud-tweaks
+# jalen-token-hud-tweaks Discord: jalensailin#1177
 What this module does (read the rest for more details): 
   1. It makes status icons appear larger on the token 
   2. It changes the layout of the status effects list to be horizontal instead of vertical, and centers this list around the token.
@@ -25,3 +25,6 @@ Installation (manual):
       -Click into modules folder
   4. Paste jalen-token-hud-tweaks folder into modules folder. 
   5. In your Foundry world, navigate to the Manage Modules page and enable Jalen's Token HUD Tweaks
+ 
+Customize: 
+If you want to customize this module (or the original one) to suit your needs better, hit me up on Discord jalensailin#1177 and I'll try my best to walk you through what I did. 
