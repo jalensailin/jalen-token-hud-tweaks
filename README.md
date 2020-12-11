@@ -1,4 +1,9 @@
 # jalen-token-hud-tweaks
+What this module does (read the rest for more details): 
+  1. It makes status icons appear larger on the token 
+  2. It changes the layout of the status effects list to be horizontal instead of vertical, and centers this list around the token.
+  3. It increases the opacity behind the HUD and status icons (this was not my change but I left it there because I liked it). 
+
 Acknowledgements: Forked from Illandril's Token HUD Scaler. https://github.com/illandril/FoundryVTT-token-hud-scale. The init.js file came directly from Illandril's mod. Also takes some CSS written by Sky. Thank you to both of them, the creators of Foundry, and all the other module/system/art developers. Y'all are amazing. 
 
 Description from Illandril's Mod: "Improves the visibility of the Status Effect icons. Adjusts the size of token status effects so they fit 3 across for the token (60% larger than standard for 1:1 tokens, much larger than standard for double-sized tokens, slightly smaller than standard for half-size tokens), and increases the opacity of the background behind both the Token HUD and Status Effect icons."
@@ -9,7 +14,7 @@ Example:
 
 ![](ImageExample/JalenTweaks.png)
 
-Compatibility: I literally know so little about coding, so I am not sure how this would be compatible with other mods. I imagine mods which change the CSS of the token HUD will not be compatible but who knows. I also don't know if this is system agnostic. I use it for DnD 5e. Maybe someone can inform me about this. 
+Compatibility: I literally know very little about coding, so I am not sure how this would be compatible with other mods. I imagine mods which change the CSS of the token HUD will not be compatible but who knows. I also don't know if this is system agnostic. I use it for DnD 5e. Hopefully someone can clear the air on this stuff. 
 
 Installation (manual): 
   1. Download all files.
